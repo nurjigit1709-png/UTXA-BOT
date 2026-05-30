@@ -1,0 +1,65 @@
+{
+    "-1003446047573": {
+        "active": false,
+        "amount": 10000000,
+        "creator_id": 8522752836,
+        "creator_name": "𝓕𝓪𝓶𝓸𝓾𝓼 𝟕",
+        "participants": {
+            "7717962483": "￶ ￶ ￶ ︎ 𝑏𝑘𝑡𝑏𝑛𝑎",
+            "5647429750": "⁠⁠ ⁠nabi",
+            "7193367721": "Эрбол",
+            "1124130603": "1:371"
+        },
+        "message_id": 105794,
+        "started": false,
+        "running": false,
+        "ticks": 12,
+        "emoji_counts": {
+            "7717962483": 2,
+            "5647429750": 4,
+            "7193367721": 3,
+            "1124130603": 3
+        },
+        "reminder_message_id": 105780
+    },
+    "-1003518842778": {
+        "active": false,
+        "amount": 1000000,
+        "creator_id": 8522752836,
+        "creator_name": "𝓕𝓪𝓶𝓸𝓾𝓼 𝟕",
+        "participants": {
+            "7964985184": "Самир",
+            "1869412961": "༺ ཽཽཽཽཽChikaཽཽཽཽཽ༻",
+            "8265803830": "𝓜𝓪𝓵𝓲𝓴𝓸𝓿𝓪"
+        },
+        "message_id": 22951,
+        "started": false,
+        "running": false,
+        "ticks": 12,
+        "emoji_counts": {
+            "7964985184": 2,
+            "1869412961": 6,
+            "8265803830": 4
+        },
+        "reminder_message_id": 22940
+    },
+    "-1003732742600": {
+        "active": false,
+        "amount": 5000000,
+        "creator_id": 8522752836,
+        "creator_name": "𝓕𝓪𝓶𝓸𝓾𝓼 𝟕",
+        "participants": {
+            "7229087784": "☠︎︎༒︎Beka༒︎☠︎︎.",
+            "8455528162": "𝐖𝐓𝐓•𝑺𝑿𝑳"
+        },
+        "message_id": 4861,
+        "started": false,
+        "running": false,
+        "ticks": 12,
+        "emoji_counts": {
+            "7229087784": 5,
+            "8455528162": 7
+        },
+        "reminder_message_id": 4855
+    }
+}
