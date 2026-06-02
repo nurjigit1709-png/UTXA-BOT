@@ -492,7 +492,7 @@ def _load_env_file(path: str = ".env") -> dict:
         print(f"⚠️ Не удалось прочитать .env: {e}")
     return env
 
-TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8814745770:AAFgpXdrxQjlrc0RRL9RMy4kRnRkwflnbcc")
+TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8814745770:AAF0-qwY0JC2o49C64hElY-BKUGlrc4q-rg")
 if not TOKEN:
     raise RuntimeError("TELEGRAM_BOT_TOKEN environment variable is not set.")
 CHANNEL = '@utxa_news'
